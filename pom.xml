@@ -48,7 +48,7 @@
 					<sdk>
 						<platform>21</platform>
 					</sdk>
-					<testCoverageFile>/data/data/pconley.vamp/cache/test-coverage.ec</testCoverageFile>
+					<testCoverageFile>/data/data/com.github.pconley.TestApp/cache/test-coverage.ec</testCoverageFile>
 				</configuration>
 			</plugin>
 			<plugin>
